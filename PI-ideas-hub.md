@@ -1,0 +1,1 @@
+# A web tool to organize ideas for personal and group
